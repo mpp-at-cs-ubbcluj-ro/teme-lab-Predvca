@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.Predvca.lab01.MainTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-03-04T09:01:10" hostname="FUNNY-MINI" time="0.027">
+<testsuite name="com.Predvca.lab01.MainTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2025-03-04T14:12:35" hostname="FUNNY-MINI" time="0.024">
   <properties/>
-  <testcase name="testConcatenare()" classname="com.Predvca.lab01.MainTest" time="0.024"/>
+  <testcase name="testConcatenare()" classname="com.Predvca.lab01.MainTest" time="0.022"/>
   <testcase name="testStringGol()" classname="com.Predvca.lab01.MainTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
