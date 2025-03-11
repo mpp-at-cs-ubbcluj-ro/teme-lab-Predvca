@@ -1,0 +1,146 @@
+11 Mar 2025 13:55:17,037 INFO  com.Predvca.lab03.FruitDBRepository 17 <init> - Initializing FruitDBRepository with properties: {}
+11 Mar 2025 13:55:17,053 INFO  com.Predvca.lab03.FruitDBRepository 65 add - Adding new fruit: Id=0, Name=orange, Variety=Valencia, Distributor=Digi, Quantity=240, Unit=kg
+11 Mar 2025 13:55:17,057 TRACE com.Predvca.lab03.JdbcUtils 47 getConnection - Enter
+11 Mar 2025 13:55:17,058 TRACE com.Predvca.lab03.JdbcUtils 24 getNewConnection - Enter
+11 Mar 2025 13:55:17,058 INFO  com.Predvca.lab03.JdbcUtils 29 getNewConnection - trying to connect to database ... null
+11 Mar 2025 13:55:17,059 INFO  com.Predvca.lab03.JdbcUtils 30 getNewConnection - user: null
+11 Mar 2025 13:55:17,060 INFO  com.Predvca.lab03.JdbcUtils 31 getNewConnection - pass: null
+11 Mar 2025 13:55:17,063 ERROR com.Predvca.lab03.JdbcUtils 40 getNewConnection - java.sql.SQLException: The url cannot be null
+11 Mar 2025 13:55:17,065 TRACE com.Predvca.lab03.JdbcUtils 56 getConnection - Exit
+11 Mar 2025 14:30:38,618 INFO  com.Predvca.lab03.FruitDBRepository 17 <init> - Initializing FruitDBRepository with properties: {}
+11 Mar 2025 14:30:38,632 INFO  com.Predvca.lab03.FruitDBRepository 65 add - Adding new fruit: Id=0, Name=orange, Variety=Valencia, Distributor=Digi, Quantity=240, Unit=kg
+11 Mar 2025 14:30:38,634 TRACE com.Predvca.lab03.JdbcUtils 47 getConnection - Enter
+11 Mar 2025 14:30:38,635 TRACE com.Predvca.lab03.JdbcUtils 24 getNewConnection - Enter
+11 Mar 2025 14:30:38,635 INFO  com.Predvca.lab03.JdbcUtils 29 getNewConnection - trying to connect to database ... null
+11 Mar 2025 14:30:38,636 INFO  com.Predvca.lab03.JdbcUtils 30 getNewConnection - user: null
+11 Mar 2025 14:30:38,636 INFO  com.Predvca.lab03.JdbcUtils 31 getNewConnection - pass: null
+11 Mar 2025 14:30:38,638 ERROR com.Predvca.lab03.JdbcUtils 40 getNewConnection - java.sql.SQLException: The url cannot be null
+11 Mar 2025 14:30:38,638 TRACE com.Predvca.lab03.JdbcUtils 56 getConnection - Exit
+11 Mar 2025 14:31:04,267 INFO  com.Predvca.lab03.FruitDBRepository 17 <init> - Initializing FruitDBRepository with properties: {jdbc.url=jdbc:sqlite:C:UsersmateiCodeSQLMy Databasesruit.db}
+11 Mar 2025 14:31:04,280 INFO  com.Predvca.lab03.FruitDBRepository 65 add - Adding new fruit: Id=0, Name=orange, Variety=Valencia, Distributor=Digi, Quantity=240, Unit=kg
+11 Mar 2025 14:31:04,282 TRACE com.Predvca.lab03.JdbcUtils 47 getConnection - Enter
+11 Mar 2025 14:31:04,282 TRACE com.Predvca.lab03.JdbcUtils 24 getNewConnection - Enter
+11 Mar 2025 14:31:04,283 INFO  com.Predvca.lab03.JdbcUtils 29 getNewConnection - trying to connect to database ... jdbc:sqlite:C:UsersmateiCodeSQLMy Databasesruit.db
+11 Mar 2025 14:31:04,284 INFO  com.Predvca.lab03.JdbcUtils 30 getNewConnection - user: null
+11 Mar 2025 14:31:04,284 INFO  com.Predvca.lab03.JdbcUtils 31 getNewConnection - pass: null
+11 Mar 2025 14:31:04,290 ERROR com.Predvca.lab03.JdbcUtils 40 getNewConnection - java.sql.SQLException: No suitable driver found for jdbc:sqlite:C:UsersmateiCodeSQLMy Databasesruit.db
+11 Mar 2025 14:31:04,292 TRACE com.Predvca.lab03.JdbcUtils 56 getConnection - Exit
+11 Mar 2025 14:31:41,912 INFO  com.Predvca.lab03.FruitDBRepository 17 <init> - Initializing FruitDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\matei\Code\SQL\My Databases\fruit.db}
+11 Mar 2025 14:31:41,931 INFO  com.Predvca.lab03.FruitDBRepository 65 add - Adding new fruit: Id=0, Name=orange, Variety=Valencia, Distributor=Digi, Quantity=240, Unit=kg
+11 Mar 2025 14:31:41,935 TRACE com.Predvca.lab03.JdbcUtils 47 getConnection - Enter
+11 Mar 2025 14:31:41,936 TRACE com.Predvca.lab03.JdbcUtils 24 getNewConnection - Enter
+11 Mar 2025 14:31:41,936 INFO  com.Predvca.lab03.JdbcUtils 29 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\matei\Code\SQL\My Databases\fruit.db
+11 Mar 2025 14:31:41,937 INFO  com.Predvca.lab03.JdbcUtils 30 getNewConnection - user: null
+11 Mar 2025 14:31:41,938 INFO  com.Predvca.lab03.JdbcUtils 31 getNewConnection - pass: null
+11 Mar 2025 14:31:41,943 ERROR com.Predvca.lab03.JdbcUtils 40 getNewConnection - java.sql.SQLException: No suitable driver found for jdbc:sqlite:C:\Users\matei\Code\SQL\My Databases\fruit.db
+11 Mar 2025 14:31:41,945 TRACE com.Predvca.lab03.JdbcUtils 56 getConnection - Exit
+11 Mar 2025 15:00:20,464 INFO  com.Predvca.lab03.FruitDBRepository 17 <init> - Initializing FruitDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\matei\Code\SQL\My Databases\fruit.db}
+11 Mar 2025 15:00:20,477 INFO  com.Predvca.lab03.FruitDBRepository 65 add - Adding new fruit: Id=0, Name=orange, Variety=Valencia, Distributor=Digi, Quantity=240, Unit=kg
+11 Mar 2025 15:00:20,479 TRACE com.Predvca.lab03.JdbcUtils 47 getConnection - Enter
+11 Mar 2025 15:00:20,479 TRACE com.Predvca.lab03.JdbcUtils 24 getNewConnection - Enter
+11 Mar 2025 15:00:20,479 INFO  com.Predvca.lab03.JdbcUtils 29 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\matei\Code\SQL\My Databases\fruit.db
+11 Mar 2025 15:00:20,481 INFO  com.Predvca.lab03.JdbcUtils 30 getNewConnection - user: null
+11 Mar 2025 15:00:20,481 INFO  com.Predvca.lab03.JdbcUtils 31 getNewConnection - pass: null
+11 Mar 2025 15:00:20,739 TRACE com.Predvca.lab03.JdbcUtils 56 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@64e7619d)
+11 Mar 2025 15:00:20,752 INFO  com.Predvca.lab03.FruitDBRepository 121 findAll - Retrieving all fruits...
+11 Mar 2025 15:00:20,753 TRACE com.Predvca.lab03.JdbcUtils 47 getConnection - Enter
+11 Mar 2025 15:00:20,753 TRACE com.Predvca.lab03.JdbcUtils 24 getNewConnection - Enter
+11 Mar 2025 15:00:20,753 INFO  com.Predvca.lab03.JdbcUtils 29 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\matei\Code\SQL\My Databases\fruit.db
+11 Mar 2025 15:00:20,753 INFO  com.Predvca.lab03.JdbcUtils 30 getNewConnection - user: null
+11 Mar 2025 15:00:20,754 INFO  com.Predvca.lab03.JdbcUtils 31 getNewConnection - pass: null
+11 Mar 2025 15:00:20,755 TRACE com.Predvca.lab03.JdbcUtils 56 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@20d7d6fb)
+11 Mar 2025 15:00:20,758 INFO  com.Predvca.lab03.FruitDBRepository 23 findByDistributor - Finding fruits by distributor: Dole
+11 Mar 2025 15:00:20,758 TRACE com.Predvca.lab03.JdbcUtils 47 getConnection - Enter
+11 Mar 2025 15:00:20,759 TRACE com.Predvca.lab03.JdbcUtils 24 getNewConnection - Enter
+11 Mar 2025 15:00:20,759 INFO  com.Predvca.lab03.JdbcUtils 29 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\matei\Code\SQL\My Databases\fruit.db
+11 Mar 2025 15:00:20,759 INFO  com.Predvca.lab03.JdbcUtils 30 getNewConnection - user: null
+11 Mar 2025 15:00:20,759 INFO  com.Predvca.lab03.JdbcUtils 31 getNewConnection - pass: null
+11 Mar 2025 15:00:20,760 TRACE com.Predvca.lab03.JdbcUtils 56 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7f8a9499)
+11 Mar 2025 15:18:17,732 INFO  com.Predvca.lab03.FruitDBRepository 17 <init> - Initializing FruitDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\matei\Code\SQL\My Databases\fruit.db}
+11 Mar 2025 15:18:17,745 INFO  com.Predvca.lab03.FruitDBRepository 65 add - Adding new fruit: Id=0, Name=apple, Variety=Golden, Distributor=FreshFruits, Quantity=500, Unit=kg
+11 Mar 2025 15:18:17,748 TRACE com.Predvca.lab03.JdbcUtils 47 getConnection - Enter
+11 Mar 2025 15:18:17,749 TRACE com.Predvca.lab03.JdbcUtils 24 getNewConnection - Enter
+11 Mar 2025 15:18:17,749 INFO  com.Predvca.lab03.JdbcUtils 29 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\matei\Code\SQL\My Databases\fruit.db
+11 Mar 2025 15:18:17,750 INFO  com.Predvca.lab03.JdbcUtils 30 getNewConnection - user: null
+11 Mar 2025 15:18:17,751 INFO  com.Predvca.lab03.JdbcUtils 31 getNewConnection - pass: null
+11 Mar 2025 15:18:18,012 TRACE com.Predvca.lab03.JdbcUtils 56 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@64e7619d)
+11 Mar 2025 15:18:18,028 INFO  com.Predvca.lab03.FruitDBRepository 97 update - Updating fruit with ID: 1
+11 Mar 2025 15:18:18,028 TRACE com.Predvca.lab03.JdbcUtils 47 getConnection - Enter
+11 Mar 2025 15:18:18,028 TRACE com.Predvca.lab03.JdbcUtils 24 getNewConnection - Enter
+11 Mar 2025 15:18:18,029 INFO  com.Predvca.lab03.JdbcUtils 29 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\matei\Code\SQL\My Databases\fruit.db
+11 Mar 2025 15:18:18,029 INFO  com.Predvca.lab03.JdbcUtils 30 getNewConnection - user: null
+11 Mar 2025 15:18:18,029 INFO  com.Predvca.lab03.JdbcUtils 31 getNewConnection - pass: null
+11 Mar 2025 15:18:18,031 TRACE com.Predvca.lab03.JdbcUtils 56 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@e3c0e40)
+11 Mar 2025 15:18:18,037 INFO  com.Predvca.lab03.FruitDBRepository 23 findByDistributor - Finding fruits by distributor: Dole
+11 Mar 2025 15:18:18,038 TRACE com.Predvca.lab03.JdbcUtils 47 getConnection - Enter
+11 Mar 2025 15:18:18,038 TRACE com.Predvca.lab03.JdbcUtils 24 getNewConnection - Enter
+11 Mar 2025 15:18:18,038 INFO  com.Predvca.lab03.JdbcUtils 29 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\matei\Code\SQL\My Databases\fruit.db
+11 Mar 2025 15:18:18,038 INFO  com.Predvca.lab03.JdbcUtils 30 getNewConnection - user: null
+11 Mar 2025 15:18:18,038 INFO  com.Predvca.lab03.JdbcUtils 31 getNewConnection - pass: null
+11 Mar 2025 15:18:18,041 TRACE com.Predvca.lab03.JdbcUtils 56 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@479cbee5)
+11 Mar 2025 15:18:18,045 INFO  com.Predvca.lab03.FruitDBRepository 121 findAll - Retrieving all fruits...
+11 Mar 2025 15:18:18,045 TRACE com.Predvca.lab03.JdbcUtils 47 getConnection - Enter
+11 Mar 2025 15:18:18,045 TRACE com.Predvca.lab03.JdbcUtils 24 getNewConnection - Enter
+11 Mar 2025 15:18:18,045 INFO  com.Predvca.lab03.JdbcUtils 29 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\matei\Code\SQL\My Databases\fruit.db
+11 Mar 2025 15:18:18,045 INFO  com.Predvca.lab03.JdbcUtils 30 getNewConnection - user: null
+11 Mar 2025 15:18:18,047 INFO  com.Predvca.lab03.JdbcUtils 31 getNewConnection - pass: null
+11 Mar 2025 15:18:18,048 TRACE com.Predvca.lab03.JdbcUtils 56 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@1c39680d)
+11 Mar 2025 15:36:44,422 INFO  com.Predvca.lab03.FruitDBRepository 17 <init> - Initializing FruitDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\matei\Code\SQL\My Databases\fruit.db}
+11 Mar 2025 15:36:44,443 INFO  com.Predvca.lab03.FruitDBRepository 65 add - Adding new fruit: Id=0, Name=apple, Variety=Golden, Distributor=FreshFruits, Quantity=500, Unit=kg
+11 Mar 2025 15:36:44,446 TRACE com.Predvca.lab03.JdbcUtils 47 getConnection - Enter
+11 Mar 2025 15:36:44,446 TRACE com.Predvca.lab03.JdbcUtils 24 getNewConnection - Enter
+11 Mar 2025 15:36:44,446 INFO  com.Predvca.lab03.JdbcUtils 29 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\matei\Code\SQL\My Databases\fruit.db
+11 Mar 2025 15:36:44,447 INFO  com.Predvca.lab03.JdbcUtils 30 getNewConnection - user: null
+11 Mar 2025 15:36:44,448 INFO  com.Predvca.lab03.JdbcUtils 31 getNewConnection - pass: null
+11 Mar 2025 15:36:44,724 TRACE org.sqlite.core.NativeDB 129 prepare - DriverManager [main] [SQLite EXEC] pragma busy_timeout=3000
+11 Mar 2025 15:36:44,727 TRACE com.Predvca.lab03.JdbcUtils 56 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@2b72cb8a)
+11 Mar 2025 15:36:44,730 TRACE org.sqlite.core.NativeDB 129 prepare - DriverManager [main] [SQLite EXEC] INSERT INTO fruit (name, variety, distributor, quantity, unit) VALUES (?, ?, ?, ?, ?)
+11 Mar 2025 15:36:44,738 TRACE org.sqlite.core.NativeDB 129 prepare - DriverManager [main] [SQLite EXEC] begin;
+11 Mar 2025 15:36:44,738 TRACE org.sqlite.core.NativeDB 129 prepare - DriverManager [main] [SQLite EXEC] commit;
+11 Mar 2025 15:36:44,741 TRACE org.sqlite.core.NativeDB 129 prepare - DriverManager [main] [SQLite EXEC] SELECT last_insert_rowid();
+11 Mar 2025 15:36:44,744 INFO  com.Predvca.lab03.FruitDBRepository 97 update - Updating fruit with ID: 1
+11 Mar 2025 15:36:44,744 TRACE com.Predvca.lab03.JdbcUtils 47 getConnection - Enter
+11 Mar 2025 15:36:44,744 TRACE com.Predvca.lab03.JdbcUtils 24 getNewConnection - Enter
+11 Mar 2025 15:36:44,745 INFO  com.Predvca.lab03.JdbcUtils 29 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\matei\Code\SQL\My Databases\fruit.db
+11 Mar 2025 15:36:44,745 INFO  com.Predvca.lab03.JdbcUtils 30 getNewConnection - user: null
+11 Mar 2025 15:36:44,745 INFO  com.Predvca.lab03.JdbcUtils 31 getNewConnection - pass: null
+11 Mar 2025 15:36:44,747 TRACE org.sqlite.core.NativeDB 129 prepare - DriverManager [main] [SQLite EXEC] pragma busy_timeout=3000
+11 Mar 2025 15:36:44,748 TRACE com.Predvca.lab03.JdbcUtils 56 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@4a3631f8)
+11 Mar 2025 15:36:44,748 TRACE org.sqlite.core.NativeDB 129 prepare - DriverManager [main] [SQLite EXEC] UPDATE fruit SET name = ?, variety = ?, distributor = ?, quantity = ?, unit = ? WHERE id = ?
+11 Mar 2025 15:36:44,753 TRACE org.sqlite.core.NativeDB 129 prepare - DriverManager [main] [SQLite EXEC] begin;
+11 Mar 2025 15:36:44,753 TRACE org.sqlite.core.NativeDB 129 prepare - DriverManager [main] [SQLite EXEC] commit;
+11 Mar 2025 15:36:44,756 INFO  com.Predvca.lab03.FruitDBRepository 23 findByDistributor - Finding fruits by distributor: Dole
+11 Mar 2025 15:36:44,756 TRACE com.Predvca.lab03.JdbcUtils 47 getConnection - Enter
+11 Mar 2025 15:36:44,756 TRACE com.Predvca.lab03.JdbcUtils 24 getNewConnection - Enter
+11 Mar 2025 15:36:44,756 INFO  com.Predvca.lab03.JdbcUtils 29 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\matei\Code\SQL\My Databases\fruit.db
+11 Mar 2025 15:36:44,756 INFO  com.Predvca.lab03.JdbcUtils 30 getNewConnection - user: null
+11 Mar 2025 15:36:44,757 INFO  com.Predvca.lab03.JdbcUtils 31 getNewConnection - pass: null
+11 Mar 2025 15:36:44,758 TRACE org.sqlite.core.NativeDB 129 prepare - DriverManager [main] [SQLite EXEC] pragma busy_timeout=3000
+11 Mar 2025 15:36:44,759 TRACE com.Predvca.lab03.JdbcUtils 56 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@2d9caaeb)
+11 Mar 2025 15:36:44,759 TRACE org.sqlite.core.NativeDB 129 prepare - DriverManager [main] [SQLite EXEC] SELECT * FROM fruit WHERE distributor = ?
+11 Mar 2025 15:36:44,762 INFO  com.Predvca.lab03.FruitDBRepository 121 findAll - Retrieving all fruits...
+11 Mar 2025 15:36:44,762 TRACE com.Predvca.lab03.JdbcUtils 47 getConnection - Enter
+11 Mar 2025 15:36:44,762 TRACE com.Predvca.lab03.JdbcUtils 24 getNewConnection - Enter
+11 Mar 2025 15:36:44,762 INFO  com.Predvca.lab03.JdbcUtils 29 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\matei\Code\SQL\My Databases\fruit.db
+11 Mar 2025 15:36:44,762 INFO  com.Predvca.lab03.JdbcUtils 30 getNewConnection - user: null
+11 Mar 2025 15:36:44,762 INFO  com.Predvca.lab03.JdbcUtils 31 getNewConnection - pass: null
+11 Mar 2025 15:36:44,763 TRACE org.sqlite.core.NativeDB 129 prepare - DriverManager [main] [SQLite EXEC] pragma busy_timeout=3000
+11 Mar 2025 15:36:44,764 TRACE com.Predvca.lab03.JdbcUtils 56 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@3ddc6915)
+11 Mar 2025 15:36:44,764 TRACE org.sqlite.core.NativeDB 129 prepare - DriverManager [main] [SQLite EXEC] SELECT * FROM fruit
+11 Mar 2025 16:09:10,702 INFO  com.Predvca.lab03.FruitDBRepository 17 <init> - Initializing FruitDBRepository with properties: {jdbc.url=jdbc:sqlite:C:\Users\matei\Code\SQL\My Databases\fruit.db}
+11 Mar 2025 16:09:10,718 INFO  com.Predvca.lab03.FruitDBRepository 65 add - Adding new fruit: Id=0, Name=apple, Variety=Golden, Distributor=FreshFruits, Quantity=500, Unit=kg
+11 Mar 2025 16:09:10,719 INFO  com.Predvca.lab03.JdbcUtils 29 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\matei\Code\SQL\My Databases\fruit.db
+11 Mar 2025 16:09:10,719 INFO  com.Predvca.lab03.JdbcUtils 30 getNewConnection - user: null
+11 Mar 2025 16:09:10,719 INFO  com.Predvca.lab03.JdbcUtils 31 getNewConnection - pass: null
+11 Mar 2025 16:09:11,000 INFO  com.Predvca.lab03.FruitDBRepository 97 update - Updating fruit with ID: 1
+11 Mar 2025 16:09:11,001 INFO  com.Predvca.lab03.JdbcUtils 29 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\matei\Code\SQL\My Databases\fruit.db
+11 Mar 2025 16:09:11,001 INFO  com.Predvca.lab03.JdbcUtils 30 getNewConnection - user: null
+11 Mar 2025 16:09:11,001 INFO  com.Predvca.lab03.JdbcUtils 31 getNewConnection - pass: null
+11 Mar 2025 16:09:11,008 INFO  com.Predvca.lab03.FruitDBRepository 23 findByDistributor - Finding fruits by distributor: Dole
+11 Mar 2025 16:09:11,008 INFO  com.Predvca.lab03.JdbcUtils 29 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\matei\Code\SQL\My Databases\fruit.db
+11 Mar 2025 16:09:11,008 INFO  com.Predvca.lab03.JdbcUtils 30 getNewConnection - user: null
+11 Mar 2025 16:09:11,009 INFO  com.Predvca.lab03.JdbcUtils 31 getNewConnection - pass: null
+11 Mar 2025 16:09:11,013 INFO  com.Predvca.lab03.FruitDBRepository 121 findAll - Retrieving all fruits...
+11 Mar 2025 16:09:11,013 INFO  com.Predvca.lab03.JdbcUtils 29 getNewConnection - trying to connect to database ... jdbc:sqlite:C:\Users\matei\Code\SQL\My Databases\fruit.db
+11 Mar 2025 16:09:11,013 INFO  com.Predvca.lab03.JdbcUtils 30 getNewConnection - user: null
+11 Mar 2025 16:09:11,013 INFO  com.Predvca.lab03.JdbcUtils 31 getNewConnection - pass: null

@@ -12,8 +12,8 @@ class MainTest {
     }
 
     @Test
-    void testStringGol() {
-        String rezultat = Joiner.on(", ").join("", "");
-        assertEquals(", ", rezultat);
+    void testSpecialChar() {
+        String rezultat = Joiner.on("$%%#").join("$", "#");
+        assertEquals("$$%%##", rezultat);
     }
 }
